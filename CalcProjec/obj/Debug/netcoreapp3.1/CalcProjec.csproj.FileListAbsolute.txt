@@ -1,0 +1,13 @@
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.exe
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.deps.json
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.runtimeconfig.json
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.runtimeconfig.dev.json
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.dll
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\bin\Debug\netcoreapp3.1\CalcProjec.pdb
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.AssemblyInfo.cs
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.dll
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.pdb
+C:\Users\ADM\Documents\CalcProjec\CalcProjec\obj\Debug\netcoreapp3.1\CalcProjec.genruntimeconfig.cache
